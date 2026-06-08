@@ -17,11 +17,11 @@
       class="nav-link text-dark {% if '/categories/' in request.path %}bg-warning{% endif %}"
       >Categories</a
     >
-    {% comment %} <a
+    <a
       href="{% url 'posts' %}"
       class="nav-link text-dark {% if '/posts/' in request.path %}bg-warning{% endif %}"
       >Posts</a
     >
-    <a href="" class="nav-link text-dark">Logout</a> {% endcomment %}
+    <a href="" class="nav-link text-dark">Logout</a>
   </div>
 </div>
