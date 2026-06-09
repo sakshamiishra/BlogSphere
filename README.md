@@ -140,3 +140,4 @@ Open your browser and navigate to **http://127.0.0.1:8000/**
 - ✅ **`@login_required`** decorator for route protection
 - ✅ **Media file uploads** with organized directory structure
 - ✅ **Django Admin** customization
+
