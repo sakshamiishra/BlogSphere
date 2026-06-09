@@ -50,7 +50,7 @@ A feature-rich blogging platform built with **Django**, supporting multi-user au
 ## 📁 Project Structure
 
 ```
-blog_main/           # Core Django project (settings, URLs, auth views)
+blog_main/           # Core Django project ( settings, URLs, auth views )
 │
 blogs/               # Blog app
 │   ├── models.py    # Category, Blog, Comment models
